@@ -33,3 +33,5 @@ Sometimes you just need extra line breaks.
 1.  A
 2.  B
 3.  C
+
+![Seiko SKX009](SKX009.jpg)
