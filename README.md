@@ -34,4 +34,4 @@ Sometimes you just need extra line breaks.
 2.  B
 3.  C
 
-![Seiko SKX009](SKX009.jpg)
+![Seiko SKX007](SKX007.jpg)
